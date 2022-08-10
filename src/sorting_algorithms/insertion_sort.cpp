@@ -6,6 +6,7 @@ void insertion_sort() {
     // 삽입 정렬 (Insertion Sort) 로 문제를 해결할 것이다.
     // Big - O Notation : O(n^2)
     // 문제 링크 : https://www.acmicpc.net/problem/2750
+    // 참고 자료 : https://gmlwjd9405.github.io/2018/05/06/algorithm-insertion-sort.html
 
 
     int N, a[1001];
