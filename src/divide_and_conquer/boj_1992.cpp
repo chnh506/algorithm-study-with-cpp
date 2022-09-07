@@ -1,3 +1,10 @@
+// 문제 링크 : https://www.acmicpc.net/problem/1992
+// 전형적인 '분할 정복 알고리즘'으로 해결하는 문제.
+// 맨 처음 틀린 코드를 쓰고, 문제점을 찾지 못하고 있었는데 ,,, 알고 보니 int형을 쓴 것이 문제였다.
+// char형으로 자료형을 고쳐서 해결.
+// Debugging을 해 보니까 바로 어디가 틀렸는 지 찾을 수 있었다. 디버깅의 중요성!!
+
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
