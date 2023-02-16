@@ -63,3 +63,38 @@ int main(void) {
 
 
 // 책의 정답 코드(코드 복기 할 것!!)
+// while 조건을 end_idx가 N까지 증가할 때로 잡을 수 있었던 이유??
+// start_idx와 end_idx 자체를 값으로 쓸 생각을 처음에 못 해서 메모리 초과가 나왔다 ...
+int Doit006(void) {
+    ios::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+
+    int N;
+    cin>>N;
+
+    int count = 1;
+    int start_idx = 1;
+    int end_idx = 1;
+    int sum = 1;
+
+    while(end_idx != N) {       // 어떻게 이 조건이 나온 것이지???
+        if(sum == N) {
+            count++;
+            end_idx++;
+            sum += end_idx;
+        }
+        else if(sum > N) {
+            sum -= start_idx;
+            start_idx++;
+        }
+        else {
+            end_idx++;
+            sum += end_idx;
+        }
+    }
+
+    cout << count << "\n";
+    
+    return 0;
+}
