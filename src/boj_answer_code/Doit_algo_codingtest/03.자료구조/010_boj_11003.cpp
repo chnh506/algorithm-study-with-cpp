@@ -1,6 +1,6 @@
 // Do it! 알고리즘 코딩테스트 책자
 // 010번. 최솟값 찾기 (BOJ #11003)
-// 노션 정리 링크 -> https://www.notion.so/chnh506/BOJ-11003-34e85ee40ca144d3aefbaed3b45d06e1?pvs=4
+// 노션 정리 링크 -> https://chnh506.notion.site/BOJ-11003-34e85ee40ca144d3aefbaed3b45d06e1
 
 #include <iostream>
 #include <deque>

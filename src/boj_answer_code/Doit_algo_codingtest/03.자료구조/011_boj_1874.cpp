@@ -1,6 +1,6 @@
 // Do it! 알고리즘 코딩테스트 책자
 // 011번. 스택 수열 (BOJ #1874)
-// 노션 정리 링크 → https://www.notion.so/chnh506/BOJ-1874-314428f4a52c46ec8bf5bcec7f817cda?pvs=4
+// 노션 정리 링크 → https://chnh506.notion.site/BOJ-1874-314428f4a52c46ec8bf5bcec7f817cda
 
 #include <iostream>
 #include <stack>
