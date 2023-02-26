@@ -1,5 +1,6 @@
 // Do it! 알고리즘 코딩테스트 책자
 // 008번. 좋다 (BOJ #1253)
+// 노션 정리 링크 → https://chnh506.notion.site/BOJ-1253-bb8860c666f348f09bde7cae311b45af
 
 #include <iostream>
 #include <vector>

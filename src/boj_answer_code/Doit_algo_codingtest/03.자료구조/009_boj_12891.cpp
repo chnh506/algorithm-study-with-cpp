@@ -1,5 +1,6 @@
 // Do it! 알고리즘 코딩테스트 책자
 // 009번. DNA 비밀번호 (BOJ #12891)
+// 노션 정리 링크 → https://chnh506.notion.site/BOJ-12891-DNA-3dbcaad365b14d0b9a2be6bc0150efb9
 
 #include <iostream>
 #include <string>

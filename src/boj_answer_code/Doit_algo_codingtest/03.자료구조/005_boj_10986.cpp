@@ -1,5 +1,6 @@
 // Do it! 알고리즘 코딩테스트 책자
 // 005번. 나머지 합 (BOJ #10986)
+// 노션 정리 링크 → https://chnh506.notion.site/BOJ-10986-a6bf977280dd4cf2bee132c580edf055
 
 #include <iostream>
 

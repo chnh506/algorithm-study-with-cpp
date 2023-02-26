@@ -1,6 +1,6 @@
 // Do it! 알고리즘 코딩테스트 책자
 // 004번. 구간 합 구하기 5 (BOJ #11660)
-
+// 노션 정리 링크 → https://chnh506.notion.site/BOJ-11660-5-07e9e6af9eb842798beb473e7899f09d
 
 #include <iostream>
 

@@ -1,5 +1,6 @@
 // Do it! 알고리즘 코딩테스트 책자
 // 006번. 수들의 합 5 (BOJ #2018)
+// 노션 정리 링크 → https://chnh506.notion.site/BOJ-2018-5-af3408caf1ca4500b30da11b1a3926e4
 
 // 내가 쥐어짜낸 정답 코드 ...
 #include <iostream>

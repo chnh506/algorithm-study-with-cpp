@@ -1,5 +1,6 @@
 // Do it! 알고리즘 코딩테스트 책자
 // 007번. 주몽 (BOJ #1940)
+// 노션 정리 링크 → https://chnh506.notion.site/BOJ-1940-8a608d4229564f329ac56cbc1d4e6c9b
 
 #include <iostream>
 #include <algorithm>
