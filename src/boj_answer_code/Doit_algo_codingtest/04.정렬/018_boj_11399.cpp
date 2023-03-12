@@ -1,5 +1,5 @@
 // Do it! 알고리즘 코딩테스트 책자
-// 017번. 소트인사이드 (BOJ #1427)
+// 018번. ATM (BOJ #11399)
 // 노션 정리 링크 → https://chnh506.notion.site/BOJ-11399-ATM-cf2f9d3104844df384156468e9c838c6
 
 #include <iostream>
