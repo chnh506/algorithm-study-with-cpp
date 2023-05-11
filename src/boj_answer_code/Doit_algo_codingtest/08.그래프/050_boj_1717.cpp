@@ -61,3 +61,30 @@ int find(int k) {
     uf[k] = l;
     return l;
 }
+
+/*
+void unionfunc(int a, int b) {
+    // union 연산: 바로 연결하는 것이 아니다. 대표 노드로 올라가서 대표 노드끼리 연결한다.
+    a = find(a);
+    b = find(b);
+
+    if(a != b) {
+        parent[b] = a;
+    }
+}
+
+int find(int a) {
+    // find 연산: 대표 노드를 찾아서 반환한다.
+    if(a == parent[a]) return a;
+    else return parent[a] = find(parent[a]);    // 재귀 함수 형태로 구현
+}
+
+bool checkSame(int a, int b) {
+    // 두 원소가 같은 집합에 속해 있는지 확인한다.
+    a = find(a);
+    b = find(b);
+
+    if(a == b) return true;
+    return false;
+}
+*/
